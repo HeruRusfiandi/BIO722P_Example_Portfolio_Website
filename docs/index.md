@@ -13,10 +13,13 @@ A reasercher in plant Biotechnology who has experienced in various areas and tec
 | --- | --- | --- | --- |
 | PhD student (part-time) | QMUL | 2023-present | Working on chromosome studies through FISH and GISH in oil palm |
 | Head of Biotechnology | Verdant Bioschience | 2014–present | Leading plant Biotechnology team |
+| Plant Tissue Culturist | PT. Tamora Stekindo/Hasfarm | 2012–2014 | Leading Plant Tissue culture R&D team |
+| Consultant in Plant Breeding and Genetics | IAEA Austria | May-November 2012 | Training staff on the production of haploid and doubled haploids in barley, wheat and maize through the application of gamma rays irradiation as well as training staff on how to detect haploid and polyploid using flow cytometry |
+
 
 ## Education 
 
 | Degree | Institution | Dates | 
 | --- | --- | --- |
-| BSc Biology  | UPI Bandung | 2002–2007 |
+| BSc in Biology  | UPI Bandung | 2002–2007 |
 

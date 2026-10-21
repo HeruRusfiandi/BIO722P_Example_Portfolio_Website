@@ -1,22 +1,25 @@
-# My Personal Portfolio Website 
+# Heru Rusfiandi
 
 -------
 
 ![Placeholder portrait](./img/Placeholder.png)
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. 
+A reasercher in plant Biotechnology who has experienced in various areas and techniques such as Plant Breeding, Plant Genetics and Cells, Plant Tissue Culture, as well as Laboratory managerial for more than 10 years. I am currently pusuing a PhD programme in Queen Mary University of London in Biological science focusing in chromosome studies. 
 
 
 ## Experience 
 
 | Role | Organisation | Dates | Example contribution |
 | --- | --- | --- | --- |
-| Summer Student | QMUL | Summer 2025 | Curated a small biological dataset and documented the workflow. |
-| Science Outreach Volunteer | QMUL | 2022–present | Developed activities introducing genetics to school students. |
+| PhD student (part-time) | QMUL | 2023-present | Working on chromosome studies through FISH and GISH in oil palm |
+| Head of Biotechnology | Verdant Bioschience | 2014–present | Leading plant Biotechnology team |
+| Plant Tissue Culturist | PT. Tamora Stekindo/Hasfarm | 2012–2014 | Leading Plant Tissue culture R&D team |
+| Consultant in Plant Breeding and Genetics | IAEA Austria | May-November 2012 | Training staff on the production of haploid and doubled haploids in barley, wheat and maize through the application of gamma rays irradiation as well as training staff on how to detect haploid and polyploid using flow cytometry |
+
 
 ## Education 
 
 | Degree | Institution | Dates | 
 | --- | --- | --- |
-| MSc Bioinformatics  | QMUL | 2024–2025 |
-| BSc Biochemistry | University of York | 2020–2024 |
+| BSc in Biology  | UPI Bandung | 2002–2007 |
+
